@@ -17,7 +17,7 @@
 
 ## Image Peview
 
-![Image Preview(https://github.com/user-attachments/assets/ab7f74bd-f573-45ee-bb4d-9546015a929f)
+![Image Preview](https://github.com/user-attachments/assets/ab7f74bd-f573-45ee-bb4d-9546015a929f)
 
 ## How It Works  
 
